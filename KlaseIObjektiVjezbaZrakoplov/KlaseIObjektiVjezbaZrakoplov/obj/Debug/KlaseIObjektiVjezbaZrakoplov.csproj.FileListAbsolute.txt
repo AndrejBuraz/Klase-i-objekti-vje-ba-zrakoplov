@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\KlaseIObjektiVjezbaZrakoplov\KlaseIObjektiVjezbaZrakoplov\bin\Debug\KlaseIObjektiVjezbaZrakoplov.exe.config
+C:\Users\HP\source\repos\KlaseIObjektiVjezbaZrakoplov\KlaseIObjektiVjezbaZrakoplov\bin\Debug\KlaseIObjektiVjezbaZrakoplov.exe
+C:\Users\HP\source\repos\KlaseIObjektiVjezbaZrakoplov\KlaseIObjektiVjezbaZrakoplov\bin\Debug\KlaseIObjektiVjezbaZrakoplov.pdb
+C:\Users\HP\source\repos\KlaseIObjektiVjezbaZrakoplov\KlaseIObjektiVjezbaZrakoplov\obj\Debug\KlaseIObjektiVjezbaZrakoplov.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\KlaseIObjektiVjezbaZrakoplov\KlaseIObjektiVjezbaZrakoplov\obj\Debug\KlaseIObjektiVjezbaZrakoplov.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\KlaseIObjektiVjezbaZrakoplov\KlaseIObjektiVjezbaZrakoplov\obj\Debug\KlaseIObjektiVjezbaZrakoplov.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\KlaseIObjektiVjezbaZrakoplov\KlaseIObjektiVjezbaZrakoplov\obj\Debug\KlaseIObjektiVjezbaZrakoplov.exe
+C:\Users\HP\source\repos\KlaseIObjektiVjezbaZrakoplov\KlaseIObjektiVjezbaZrakoplov\obj\Debug\KlaseIObjektiVjezbaZrakoplov.pdb
